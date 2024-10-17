@@ -13,7 +13,7 @@
   -  There is a withdrawal transactionFee of  $5 for all checking accounts
   -  There is withdrawal  transactionFee of  $10 for all savings accounts
 
-<img width="855" alt="Screenshot 2024-10-17 at 9 59 50 AM" src="https://github.com/user-attachments/assets/6853df8e-cd42-4f52-9da5-6f1ed78292b6">
+<img width="824" alt="Screenshot 2024-10-17 at 11 40 22 AM" src="https://github.com/user-attachments/assets/eef82d82-dec4-4a4d-843b-2803d4b531d0">
 
 
 
