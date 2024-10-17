@@ -68,7 +68,7 @@
     
         Account Type: Checking Account
         Account Number: 3
-        Balance: $1050.00  
+        Balance: $945.00  
     ```
 
 
