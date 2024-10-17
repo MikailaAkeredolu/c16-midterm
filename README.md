@@ -16,7 +16,6 @@
 <img width="824" alt="Screenshot 2024-10-17 at 11 40 22 AM" src="https://github.com/user-attachments/assets/eef82d82-dec4-4a4d-843b-2803d4b531d0">
 
 
-
 > Inside the main method, do the following:
 
 - Part 1
@@ -53,7 +52,7 @@
 
 - Part 4
 
- Invoke printAllCustomers method to display their info as seen below
+ > Invoke printAllCustomers method to display their info as seen below
 
     - Sample Expected output:
 
@@ -75,7 +74,7 @@
 
 - Part 5
 
-  Print the total number of customers in the bank!
+  > Print the total number of customers in the bank!
 
     - Sample Expected output
       ```
