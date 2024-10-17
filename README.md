@@ -10,8 +10,8 @@
 - IMPORTANT:
   - Only accounts with balances over $1000 recieve a 10% intetrest added to their balance when they make a deposit. 
   - All other balances receive a 5% interest added to their balance when they make a deposit.
-  -  There is a withdrawal transactionFee of  $5 for all checking accounts everytime you withdraw money successfully
-  -  There is withdrawal  transactionFee of  $10 for all savings accounts everytime you withdraw money successfully
+  -  There is a withdrawal transaction fee of  $5 for all checking accounts everytime you withdraw money successfully
+  -  There is withdrawal  transaction fee of  $10 for all savings accounts everytime you withdraw money successfully
 
 <img width="824" alt="Screenshot 2024-10-17 at 11 40 22 AM" src="https://github.com/user-attachments/assets/eef82d82-dec4-4a4d-843b-2803d4b531d0">
 
