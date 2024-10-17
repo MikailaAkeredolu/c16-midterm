@@ -1,5 +1,5 @@
 # Leverage the UML to answer the questions below
-> Assume getters, setters and toString where needed. See beloe for the requirements:
+> Assume getters, setters and toString where needed. See below for the requirements:
 
 - Your Bank must be able to add customers and keep a list of them
 - Every account created must have a unique accountNumber
