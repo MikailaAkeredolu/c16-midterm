@@ -20,7 +20,7 @@
 
 - Part 1
 
-  -  Createa a bank account objects
+  -  Createa a bank account object
   -  Createa a checking account named checkingAccount1
   -  Createa a customer account instance named customer1
   -  add customer1 to the link of the bank's cuntomers
