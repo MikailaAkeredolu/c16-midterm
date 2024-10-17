@@ -3,7 +3,7 @@
 
 - Your Bank must be able to add customers and keep a list of them
 - Every account created must have a unique accountNumber
-- You should also be able to track the number sof accounts created
+- You should also be able to track the number(s) of accounts created
 - Customers can make deposits and withdrawals
 - Customers cannot deposit negative values if they do print an message such as ***Invalid amount***
 - If a customer tries to withdraw more than their balance plus fees then  print an message such as ***Insufficient Funds***
