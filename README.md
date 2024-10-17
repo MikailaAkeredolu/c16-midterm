@@ -75,9 +75,9 @@
 
 - Part 5
 
- - Print the total number of customers in the bank
+  Print the total number of customers in the bank!
 
-   - Sample Expected output
+    - Sample Expected output
       ```
       3
     ```
