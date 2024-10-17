@@ -28,7 +28,7 @@
   -  withdraw $100 from customer1's checking account
   -  withdraw another $50 from customer1's checking account
   -  deposit $60 into customer1's checking account
-  -  attempt to deposit a negative value
+  -  attempt to deposit a negative value into customer1's checking account 
  
    
 - Part 2
@@ -37,7 +37,7 @@
   -   Createa a customer account instance named customer2
   -   add customer1 to the link of the bank's cuntomers
   -   deposit $500 into customer2's savings account
-  -   attempt to withdraw $1 million from the account
+  -   attempt to withdraw $1 million from customer2's savings account
   -   withdraw $100 from customer2's savings account
 
 
