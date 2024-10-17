@@ -28,6 +28,7 @@
   -  withdraw $100 from customer1's checking account
   -  withdraw another $50 from customer1's checking account
   -  deposit $60 into customer1's checking account
+  -  attempt to deposit a negative value
  
    
 - Part 2
