@@ -74,7 +74,7 @@
 
 - Part 5
 
-  > Print the total number of customers in the bank!
+  > Print the total number of customers in the bank's list of customers!
 
     - Sample Expected output
       ```
