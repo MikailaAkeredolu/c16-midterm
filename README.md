@@ -23,7 +23,7 @@
   -  Createa a bank account object
   -  Createa a checking account named checkingAccount1
   -  Createa a customer account instance named customer1
-  -  add customer1 to the link of the bank's cuntomers
+  -  add customer1 to the list of the bank's cuntomers
   -  deposit $2000 into customer1's checking account
   -  withdraw $100 from customer1's checking account
   -  withdraw another $50 from customer1's checking account
