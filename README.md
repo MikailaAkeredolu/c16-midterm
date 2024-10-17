@@ -71,6 +71,7 @@
         Balance: $1050.00  
     ```
 
+
 - Part 5
 
  - Print the total number of customers in the bank
