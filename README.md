@@ -1,7 +1,20 @@
 # Leverage the UML to answer the questions below
-> Assume getters, setters and toString where needed
+> Assume getters, setters and toString where needed. See beloe for the requirements:
+
+- Your Bank must be able to add customers and keep a list of them
+- Every account created must have a uqique accountNumber
+- You should also be able to track the number sof accounts created
+- Customers can make deposits and withdrawals
+- Customers cannot deposit negative values if they do print an message such as ***Invalid amount***
+- If a customer tries to withdraw more than their balance plus fees then  print an message such as ***Insufficient Funds***
+- IMPORTANT:
+  - Accounts with balances over $1000 recieve a 10% intetrest added to their balance when they make a deposit while accounts with less that $1000 get a 5% interest added to their balance when they make a deposit
+  -  There is a withdrawal transactionFee of  $5 for all checking accounts
+  -  There is withdrawal  transactionFee of  $10 for all savings accounts
 
 <img width="855" alt="Screenshot 2024-10-17 at 9 59 50 AM" src="https://github.com/user-attachments/assets/6853df8e-cd42-4f52-9da5-6f1ed78292b6">
+
+
 
 > Inside the main method, do the following:
 
