@@ -2,7 +2,7 @@
 > Assume getters, setters and toString where needed. See beloe for the requirements:
 
 - Your Bank must be able to add customers and keep a list of them
-- Every account created must have a uqique accountNumber
+- Every account created must have a unique accountNumber
 - You should also be able to track the number sof accounts created
 - Customers can make deposits and withdrawals
 - Customers cannot deposit negative values if they do print an message such as ***Invalid amount***
