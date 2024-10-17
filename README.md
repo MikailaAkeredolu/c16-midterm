@@ -46,8 +46,8 @@
   -  Createa a checking account named checkingAccount2
   -  Createa a customer account instance named customer3
   -  add customer3 to the link of the bank's cuntomers
-  -  deposit $1000 into customer1's checking account
-  -  withdraw $100 from customer1's checking account
+  -  deposit $1000 into customer3's checking account
+  -  withdraw $100 from customer3's checking account
 
 
 - Part 4
